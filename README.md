@@ -44,7 +44,6 @@
         </div>
       </div>
     </nav>
-
     <!-- Seccion Hero -->
     <section class="hero align-items-stretch">
       <div class="hero-principal d-flex flex-column justify-content-center align-items-center">
@@ -56,7 +55,6 @@
         <img class="hero-inferior-imagen img-fluid" src="imagenes/hero-inferior.svg" alt="Monitor, laptop y logos de HTML, CSS, JavaScript y React.">
       </div>
     </section>
-
     <!-- Sobre mi -->
     <section id="sobre-mi" class="sobre-mi seccion-oscura">
       <div class="contenedor">
@@ -64,7 +62,6 @@
         <p class="seccion-texto">Mi nombre es Ivan Carrillo, estoy empezando mi carrera como desarrollador de paginas web de calidad. Desde que descubri el potencial creativo y tecnico de la creacion web me he sentido inspirado a realizar trabajos en este campo.</p>
       </div>
     </section>
-
     <!-- Experiencia -->
     <section class="experiencia seccion-clara">
       <div class="container text-center">
@@ -106,7 +103,6 @@
         </div>
       </div>
     </section>
-
     <!-- Proyectos -->
     <section id="proyectos" class="proyectos-recientes seccion-clara d-flex flex-column">
       <h2 class="seccion-titulo texto-negro">Mis proyectos recientes</h2>
@@ -114,7 +110,6 @@
       <!-- Galeria de Proyectos -->
       <div class="container text-center proyectos-contenedor">
         <div class="row">
-
       <a href="https://github.com/IvnCarr?tab=repositories" target="_blank" rel="noopener noreferrer">
         <button type="button" class="btn btn-info">
           Ver Repositorio
